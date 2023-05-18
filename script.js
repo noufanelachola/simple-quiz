@@ -44,8 +44,7 @@ function submt(){
             }
         });
         
-    });
-1    
+    });    
 }
 
 // calling functions
